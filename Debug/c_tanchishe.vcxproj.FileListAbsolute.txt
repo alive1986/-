@@ -1,0 +1,2 @@
+D:\Virtual Machines\CProjects\c_tanchishe\Debug\c_tanchishe.exe
+D:\Virtual Machines\CProjects\c_tanchishe\Debug\c_tanchishe.pdb
